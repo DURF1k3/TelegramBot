@@ -1,4 +1,4 @@
-name = "Артем"
+name = "Коля"
 print("Hello ",name)
 
 i = 0
